@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "github.com/example/dadjoke/cmd"
+import "github.com/DuyNM-Github/Go-Dadjokes/cmd"
 
 func main() {
 	cmd.Execute()
