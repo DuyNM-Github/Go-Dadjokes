@@ -1,4 +1,4 @@
-module github.com/example/dadjoke
+module github.com/DuyNM-Github/Go-Dadjokes
 
 go 1.17
 
